@@ -20,3 +20,6 @@
 
 # Ignore logs and other temporary files
 *.log
+
+# Local Netlify folder
+.netlify
